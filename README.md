@@ -14,3 +14,6 @@ Esse desafio tem como objetivo criar um contexto para o gerenciamento de um carr
 
 ## 💻 Aplicação
 ![RocketShoes](./assets/rocketshoes.gif)
+
+## 🌠 Extras
+Para mais detalhes sobre o desafio, acesse [esse link](https://www.notion.so/Desafio-02-Refactoring-de-classes-e-typescript-4571541e7f8c4799bd191b6cfb53802c#19681d84c4c2412b9a706a854b754691)
